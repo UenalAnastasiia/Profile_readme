@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anastasiia</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-<br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 

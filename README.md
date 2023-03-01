@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anastasiia</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on [Coin Tracking App](https://github.com/UenalAnastasiia/C-Track)
+<div align="center">
+  - 🔭 I’m currently working on [Coin Tracking App](https://github.com/UenalAnastasiia/C-Track)
 
 - 👨‍💻 All of my projects are available at [https://anastasiia-uenal.de/](https://anastasiia-uenal.de/)
 
 - 📫 How to reach me **contact@anastasiia-uenal.de**
+</div>
 
 
 <br>
@@ -20,8 +22,10 @@
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 </p>
 
-<br>
+<div display="flex">
+  <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uenalanastasiia&show_icons=true&locale=en&theme=buefy" alt="uenalanastasiia" /></p>
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uenalanastasiia&show_icons=true&locale=en&layout=compact&theme=buefy" alt="uenalanastasiia" /></p>
+</div>

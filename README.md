@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=DE0000&fontColor=FFFFFF&fontSize=40&height=180&section=header&text=Hi!&I'm&Anastasiia)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=DE0000&fontColor=FFFFFF&fontSize=40&height=180&section=header&text=Hi,&20I'm&20Anastasiia)
 
 <h1 align="center">Hi 👋, I'm Anastasiia</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>

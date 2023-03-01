@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anastasiia</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on [Coin Tracking App](https://github.com/UenalAnastasiia/C-Track)
-
-- 👨‍💻 All of my projects are available at [https://anastasiia-uenal.de/](https://anastasiia-uenal.de/)
-
-- 📫 How to reach me **contact@anastasiia-uenal.de**
-
-
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -19,6 +12,14 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 </p>
+
+<br>
+- 🔭 I’m currently working on [Coin Tracking App](https://github.com/UenalAnastasiia/C-Track)
+
+- 👨‍💻 All of my projects are available at [https://anastasiia-uenal.de/](https://anastasiia-uenal.de/)
+
+- 📫 How to reach me **contact@anastasiia-uenal.de**
+
 
   <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uenalanastasiia&show_icons=true&locale=en&theme=buefy" alt="uenalanastasiia" /></p>

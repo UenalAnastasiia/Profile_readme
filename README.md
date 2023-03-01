@@ -12,7 +12,6 @@
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 </p>
 
-<br>
 - 🔭 I’m currently working on [Coin Tracking App](https://github.com/UenalAnastasiia/C-Track)
 
 - 👨‍💻 All of my projects are available at [https://anastasiia-uenal.de/](https://anastasiia-uenal.de/)

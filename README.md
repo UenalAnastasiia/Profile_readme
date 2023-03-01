@@ -20,8 +20,8 @@
 - 📫 How to reach me **contact@anastasiia-uenal.de**
 
 
-  <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uenalanastasiia&show_icons=true&locale=en&theme=buefy" alt="uenalanastasiia" /></p>
-
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uenalanastasiia&show_icons=true&locale=en&layout=compact&theme=buefy" alt="uenalanastasiia" /></p>
+
+  <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uenalanastasiia&show_icons=true&locale=en&theme=buefy" alt="uenalanastasiia" /></p>

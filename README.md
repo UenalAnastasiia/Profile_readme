@@ -13,7 +13,7 @@
 </p>
 <br>
 
-- 🔭 I’m currently working on [Coin Tracking App](https://github.com/UenalAnastasiia/C-Track)
+- 🔭 I’m currently working on [Join - Kanban Board App](https://github.com/UenalAnastasiia/Join-A)
 
 - 👨‍💻 All of my projects are available at [https://anastasiia-uenal.de/](https://anastasiia-uenal.de/)
 

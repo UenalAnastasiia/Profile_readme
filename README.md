@@ -1,6 +1,5 @@
 # Hello 👋, I'm Anastasiia. A passionate fullstack developer from Germany
 
-# 💫 About Me:
 🌱 I’m currently learning **Python**<br>👨‍💻 All of my projects are available at [https://anastasiia-uenal.de/](https://anastasiia-uenal.de/)<br>📫 How to reach me **contact@anastasiia-uenal.de**
 
 
